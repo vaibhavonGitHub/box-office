@@ -1,3 +1,4 @@
+
 // This optional code is used to register a service worker.
 // register() is not called by default.
 
@@ -9,6 +10,9 @@
 
 // To learn more about the benefits of this model and instructions on how to
 // opt-in, read https://cra.link/PWA
+
+/* eslint-disable */ 
+/* eslint no-underscore-dangle: 0 */
 
 const isLocalhost = Boolean(
   window.location.hostname === 'localhost' ||
