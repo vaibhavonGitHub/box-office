@@ -43,6 +43,7 @@ export const SearchButtonWrapper = Styled.div`
     outline: none;
     border-radius: 12px;
     &:hover {
+      background-color: green;
       cursor: pointer;
     }
   }
